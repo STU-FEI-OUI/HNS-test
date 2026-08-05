@@ -1,4 +1,4 @@
-# HNS-test
+# HNS - Hlboké neurónové siete
 
 test
 
