@@ -15,4 +15,4 @@ Cieľom predmetu je naučiť vytvárať a trénovať vlastné štruktúry hlbok�
 - jednoduchých aplikácií LLM v oblasti robotiky
 
 ## Harmonogram prednášok a cvičení:
-[Harmonogram prednášok a cvičení] (test dir/HarmonogramPredmetu_HNS2026.pdf)
+[Harmonogram prednášok a cvičení] (test%20dir/HarmonogramPredmetu_HNS2026.pdf)
