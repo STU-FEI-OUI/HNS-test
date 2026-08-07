@@ -3,7 +3,7 @@
 Predmet Hlboké neurónové siete je pokračovanie predmetov Umelá inteligencia 1 a 2 , kde riešime pokročilé architektúry hlbokých neurónových sietí, ich princípy a algoritmy učenia.
 Cieľom predmetu je naučiť vytvárať a trénovať vlastné štruktúry hlbokých neurónových sietí a aplikovať ich na rôzne úlohy v oblasti robotiky, kybernetiky a medicíny. 
 
-Aplikačné oblasti:
+## Aplikačné oblasti:
 - klasifikácia a rozpoznávanie hlbokými neurónovými sieťami 
 - modelovanie a predikcia hlbokými neurónovými sieťami
 - detekcia a segmentácia objektov hlbokým učením 
@@ -14,3 +14,5 @@ Aplikačné oblasti:
 - rozpoznávanie gest, tváre a hlasových povelov konvolučnými neurónovými sieťami
 - jednoduchých aplikácií LLM v oblasti robotiky
 
+## Harmonogram prednášok a cvičení:
+[Harmonogram prednášok a cvičení] (test dir/HarmonogramPredmetu_HNS2026.pdf)
