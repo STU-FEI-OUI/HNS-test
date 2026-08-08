@@ -16,3 +16,16 @@ Cieľom predmetu je naučiť vytvárať a trénovať vlastné štruktúry hlbok�
 
 ## Harmonogram prednášok a cvičení:
 [Harmonogram prednášok a cvičení](test%20dir/HarmonogramPredmetu_HNS2026.pdf)
+
+## Podmienky na absolvovanie predmetu: 
+V priebehu semestra majú študenti možnosť získať 60 bodov za vypracovanie projektových úloh. (2 jednoduchšie zadania úloh a 2 projekty). Maximálny bodový zisk zo skúšky je 40 bodov. 
+
+## Zadania úloh a projektov:
+[- Zadanie 1](test%20dir/HNS_Zadanie1.pdf)
+[- Zadanie 2](test%20dir/HNS_Zadanie2.pdf)
+[- Projekt 1](test%20dir/HNS_Projekt1.pdf)
+[- Projekt 2](test%20dir/HNS_Projekt2.pdf)
+
+## Príklady programov:
+
+
