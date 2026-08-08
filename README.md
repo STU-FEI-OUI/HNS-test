@@ -22,8 +22,11 @@ V priebehu semestra majú študenti možnosť získať 60 bodov za vypracovanie 
 
 ## Zadania úloh a projektov:
 [- Zadanie 1](test%20dir/HNS_Zadanie1.pdf)
+
 [- Zadanie 2](test%20dir/HNS_Zadanie2.pdf)
+
 [- Projekt 1](test%20dir/HNS_Projekt1.pdf)
+
 [- Projekt 2](test%20dir/HNS_Projekt2.pdf)
 
 ## Príklady programov:
