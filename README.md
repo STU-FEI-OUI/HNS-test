@@ -27,8 +27,12 @@ V priebehu semestra majú študenti možnosť získať 60 bodov za vypracovanie 
 
 [- Projekt 1](Zadania/HNS_Projekt1.pdf)
 
-[- Projekt 2](test%20dir/HNS_Projekt2.pdf)
+[- Projekt 2](Zadania/HNS_Projekt2.pdf)
 
 ## Príklady programov:
+
+Príklady rozpoznávania oblečenia - fashionMNIST Dataset, pomocou CNN
+* Keras: [fashionMNIST_keras.ipynb](fashionMNIST_keras.ipynb)
+* Pytorch: [fashionMNIST_pytorch.ipynb](fashionMNIST_pytorch.ipynb)
 
 
