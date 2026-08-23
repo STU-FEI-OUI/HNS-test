@@ -23,6 +23,7 @@ V priebehu semestra majú študenti možnosť získať 60 bodov za vypracovanie 
 ## Zadania úloh a projektov:
 ### Zadania 1:
 [Zadanie 1 - Klasifikácia terénu pomocou SVM, MLP, LSTM a CNN](Zadania/HNS_Zadanie1.pdf)
+
 Dataset a Programy k Zadaniu: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://drive.google.com/drive/folders/11j4FFFKerQn-D_06xCKMpK6MajYdHAc3?usp=drive_link)
 
 Obsah Adresára:
@@ -37,6 +38,7 @@ Obsah Adresára:
 
 Literatúra:
 [Peter Sarcevic - Online Outdoor Terrain Classification Algorithm ...](https://www.mdpi.com/2079-9292/12/15/3238)
+
 [Ersek, Kajan, Korosi - Vibration based terrain classification...](https://reference-global.com/article/10.2478/jee-2025-0044)
 
 ### Zadania 2:
