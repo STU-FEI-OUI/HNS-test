@@ -24,7 +24,7 @@ V priebehu semestra majú študenti možnosť získať 60 bodov za vypracovanie 
 ### Zadania 1:
 [Zadanie 1 - Klasifikácia terénu pomocou SVM, MLP, LSTM a CNN](Zadania/HNS_Zadanie1.pdf)
 
-Dataset a Programy k Zadaniu: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://drive.google.com/drive/folders/11j4FFFKerQn-D_06xCKMpK6MajYdHAc3?usp=drive_link)
+Dataset a Programy k Zadaniu 1: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://drive.google.com/drive/folders/11j4FFFKerQn-D_06xCKMpK6MajYdHAc3?usp=drive_link)
 
 Obsah Adresára:
 | Súbor | Obsah |
@@ -37,6 +37,7 @@ Obsah Adresára:
 | HNS_Zadanie1.pdf | Dokument zadania 1 |
 
 Literatúra:
+
 [Peter Sarcevic - Online Outdoor Terrain Classification Algorithm ...](https://www.mdpi.com/2079-9292/12/15/3238)
 
 [Ersek, Kajan, Korosi - Vibration based terrain classification...](https://reference-global.com/article/10.2478/jee-2025-0044)
@@ -44,11 +45,19 @@ Literatúra:
 ### Zadania 2:
 [Zadanie 2 - Detekcia objektov](Zadania/HNS_Zadanie2.pdf)
 
+Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://drive.google.com/drive/folders/11j4FFFKerQn-D_06xCKMpK6MajYdHAc3?usp=drive_link)
+
 ### Projekt 1:
 [Projekt 1 - Porovnanie štruktúr neurónových modelov pri úlohe klasifikácie obrazov](Zadania/HNS_Projekt1.pdf)
 
+[Datasety k Projektu 1](https://github.com/STU-FEI-OUI/HNS-Projekt1)
+
+
 ### Projekt 2:
 [Projekt 2 - Aplikačné úlohy klasifikácie s realizáciou na kamere](Zadania/HNS_Projekt2.pdf)
+
+[Datasety k Projektu 2](https://github.com/STU-FEI-OUI/HNS-Projekt1)
+
 
 ## Príklady programov:
 
