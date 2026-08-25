@@ -35,6 +35,7 @@ Obsah Adresára:
 | Programy_Zadanie1_Matlab.zip | Demo príklad v Matlabe pre rozpoznávanie číslic - MLP a CNN |
 | Demogesta_Matlab.zip | Demo príklad v Matlabe pre rozpoznávanie dynamických gest - LSTM |
 | HNS_Zadanie1.pdf | Dokument zadania 1 |
+| utils.zip | Podporné programy k zadaniu, rezanie dát na časové okná, počítanie príznakov, ... |
 
 Literatúra:
 
@@ -61,8 +62,7 @@ Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://dri
 
 ## Príklady programov:
 
-Príklady rozpoznávania oblečenia - fashionMNIST Dataset, pomocou CNN
-* Keras: [fashionMNIST_keras.ipynb](Programy/fashionMNIST_keras.ipynb)
-* Pytorch: [fashionMNIST_pytorch.ipynb](Programy/fashionMNIST_pytorch.ipynb)
+Príklady rozpoznávania oblečenia - fashionMNIST Dataset, pomocou MLP a CNN
+* Pytorch: [fashionMNIST_pytorch.ipynb](https://colab.research.google.com/drive/1d-2jh1158qSmc01Cd__8aXg229swWe-g)
 
 
